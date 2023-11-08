@@ -3,6 +3,7 @@
 [![Github Actions](https://github.com/RekeningkuDev/nill/actions/workflows/ci.yaml/badge.svg)](https://github.com/RekeningkuDev/nill/actions/workflows/ci.yaml)
 [![GoDoc](https://godoc.org/github.com/RekeningkuDev/nill?status.svg)](https://godoc.org/github.com/RekeningkuDev/nill)
 [![Go Report Card](https://goreportcard.com/badge/github.com/RekeningkuDev/nill)](https://goreportcard.com/report/github.com/RekeningkuDev/nill)
+[![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://raw.githubusercontent.com/RekeningkuDev/nill/main/LICENSE)
 
 ## Features
 * Support for echo (web framework) https://echo.labstack.com/
